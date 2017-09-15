@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Coursesales from './coursesales';
+import Coursesales from './Coursesales';
 
 class App extends Component {
   render() {
